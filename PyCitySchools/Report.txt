@@ -2,7 +2,7 @@
 
 There are total 15 schools / 39710 students selected in this dataset. The average scores for both reading and 
 math are close around with 80. The percentage of passing reading (81.88%) is higher than the percentage of 
-passing math (74.98%). However, the overall passing rate (passed both math and reading) is only 65.18%.
+passing math (74.98%). However, the overall passing rate (passed both math and reading) is only 65.17%.
 According to the school summary, this overall passing rate is composed by two extreme top and low ranges. 
 If we sort the values per overall passing rate, more than half of schools (8 in total) has above or around
 90% overall passing rate. And for the rest of 7 schools, their passing rate are as low as between 52%-55%.
