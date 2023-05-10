@@ -1,0 +1,53 @@
+#Summarizes the analysis
+
+There are total 15 schools / 39710 students selected in this dataset. The average scores for both reading and 
+math are close around with 80. The percentage of passing reading (81.88%) is higher than the percentage of 
+passing math (74.98%). However, the overall passing rate (passed both math and reading) is only 65.18%.
+According to the school summary, this overall passing rate is composed by two extreme top and low ranges. 
+If we sort the values per overall passing rate, more than half of schools (8 in total) has above or around
+90% overall passing rate. And for the rest of 7 schools, their passing rate are as low as between 52%-55%.
+The top three performing schools are Cabrera(91.33% overall passing), Thomas(90.95% overall passing) and
+Griffin(90.60% overall passing). The bottom performing schools are Rodriguez(52.99% overall passing),
+Figueroa (53.20% overall passing) and Huang(53.51% overall passing).
+
+
+#Draws two correct conclusions or comparisons from the calculations
+
+1) Based on the summary of scores by school types, all schools in this dataset are distributed between Charter 
+and District. Charter’s overall passing rate takes the particularly leading role with 90.43%. Its percentage 
+passing rate for both math and reading are close with each other. While District only has 53.67% overall passing 
+rate, and its poor performance on math (66.55% passing rate) is the main factor to pull down its overall rate.
+
+Referring back to the summary of math score by grade and the school summary, the math score pass level
+is set up as 70.The average math score for each grade from District (75 - 78) is slightly above the criteria.But
+the average math score for each grade from Charter is all above 82.In addition, for each school, their average
+maths scores from different grades have similar performances. Therefore,there is no significant correlation between
+the grades and average math scores.
+
+
+2) Comparing the summary of top school and bottom schools,
+
+    i) The bottom performing schools have larger school size than the highest-performing schools.
+
+            The summary of scores by school size demonstrate a general opinion that larger school size has a 
+            weaker academic performance, especially in math. Large school size has 69.96% passing rate for math, 
+            whereas 93.55% students from small school size passed math subject. For those students studied in 
+            medium school size have the best academic performances with 90.62% overall passing rate, which is 
+            lightly higher than 89.88% overall passing rate in small school size. 
+        
+            The top schools summary also proves that the first three highest-performing schools all fall into 
+            “Medium” school size (1000-2000 students).On the other side, the bottom schools summary shows their 
+            school size all belong to “Large” school size (2000-5000 students).
+
+    ii) The highest-performing schools have lower per student budget than the bottom performing schools. 
+
+            According to the school summary, it shows that Wilson High School (90.58% overall passing) has the 
+            lowest budget per student ($578). But it is also one of the top five performing school, while per 
+            student budget for all the bottom performing schools reach above $600. For instance, Rodriguez high 
+            school performed at the worst level with only 52.99% overall passing rate. And its per student budget 
+            is as high as $637.
+            
+            Double checking the summary of scores by school spending, the result shows a clear negative 
+            correlation between the spending ranges and overall passing rate as well. Furthermore, with a
+            decreasing overall passing rate, the difference between % passing math and % passing reading increases
+            instead.
